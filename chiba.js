@@ -12,8 +12,6 @@ document.getElementById("birth-time").innerText='2021年1月17日まで'　
 
 document.getElementById("birth-time").style.fontSize="xx-large";
 document.getElementById("birth-time").style.backgroundColor="white";
-document.getElementById("birth-time").style.width="contain";
-
 
 setInterval(updateParagraph,50);
 
