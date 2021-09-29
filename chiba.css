@@ -1,0 +1,11 @@
+body{background-color: rgb(217, 238, 161); }
+
+li{
+    list-style-type: square;
+    margin:10pt;
+    color: brown;
+}
+a{
+    font-weight: bold;
+    color: hsl(352, 55%, 58%);
+}
